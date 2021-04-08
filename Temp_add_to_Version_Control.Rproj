@@ -12,5 +12,5 @@ Encoding: UTF-8
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
-This is all new.
-Learning new things are hard.
+print ("This is all new.")
+print ("Learning new things are hard.")
